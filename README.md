@@ -1,3 +1,3 @@
-# Spotingfreelacrm
+# b7freelacrm
 
-Projeto legal de um sistema de gestão COMPLETO para freelancers
+Projeto legal de um sistema de gestão COMPLETO para freelancers.
